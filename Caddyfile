@@ -1,0 +1,3 @@
+:{$PORT}
+
+respond "410 Gone" 410
